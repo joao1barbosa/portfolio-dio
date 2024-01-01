@@ -50,19 +50,19 @@
 }
 
 .information .profile::before{
-    background-image: url('/assets/img/icons/profile.svg');
+    background-image: url('../img/icons/profile.svg');
 }
 
 .information .locate::before{
-    background-image: url('/assets/img/icons/locate.svg');
+    background-image: url('../img/icons/locate.svg');
 }
 
 .information .phone::before{
-    background-image: url('/assets/img/icons/phone.svg');
+    background-image: url('../img/icons/phone.svg');
 }
 
 .information .email::before{
-    background-image: url('/assets/img/icons/email.svg');
+    background-image: url('../img/icons/email.svg');
 }
 
 @media only screen and (min-width: 768px){    
