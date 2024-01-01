@@ -45,6 +45,6 @@
 }
 
 .experience .list li{
-    list-style: disc;
+    list-style: none;
     margin-bottom: 0.4rem;
 }
